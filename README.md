@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm Társis Guerra 👋
 
-<!--
-**TarsisGuerra/TarsisGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Physicist.
+- 💻 3D Modeler.
+- 👨🏽‍🏫 Teacher.
+- 📖 Always learning Dart and Flutter.
+- 🖍  Design UX/UI.
 
-Here are some ideas to get you started:
+![Guerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarsisGuerra&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="TarsisUnity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img align="center" alt="TarsisBlender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+  <img align="center" alt="TarsisKryta" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
+  
+  
+  
+</div>
+
