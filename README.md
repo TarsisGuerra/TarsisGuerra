@@ -4,7 +4,6 @@
 - 💻 3D Modeler.
 - 👨🏽‍🏫 Teacher.
 - 📖 Always learning Dart and Flutter.
-- 🖍  Design UX/UI.
 
 ![Guerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarsisGuerra&show_icons=true&theme=dracula)
 
