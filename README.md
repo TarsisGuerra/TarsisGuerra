@@ -1,7 +1,7 @@
 ### Hey, I'm Társis Guerra 👋
 
 - 📚 Physicist.
-- 💻 3D Modeler.
+- 💻 3D Animator.
 - 👨🏽‍🏫 Teacher.
 - 📖 Always learning Dart and Flutter.
 
